@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "text": "",
+    "file": "",
+    "link": ""
+  },
+  "text": {
+    "title": "Literary Influence Network",
+    "more": "Literature is intrinsically influx, taking on new values throughout time. While influential connections are a key factor in defining its characteristics, the influence network can supplement research. The network, curated solely using literary authors, also includes songwriters, philosophers and psychologists. While the color-based modularity partitions represent 19 communities of 3677 authors, the graph reinforces the prominence of influential ties within the literary world.",
+    "intro": "The Network of Literary Authors queried authors' influenced/influenced by' DBpedia properties. Color-coded modularity partitions represent 19 communities within 3677 authors.</br>Andrea Hansen</br>Pratt School of Information\n\n"
+ },
+  "legend": {
+    "edgeLabel": "8969",
+    "colorLabel": "",
+    "nodeLabel": "3677"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "imageAttribute": false,
+    "groupByEdgeDirection": false
+  },
+  "sigma": {
+    "graphProperties": {
+      "minEdgeSize": 0.2,
+      "maxNodeSize": 7,
+      "maxEdgeSize": 0.5,
+      "minNodeSize": 1
+    },
+    "drawingProperties": {
+      "labelThreshold": 10,
+      "hoverFontStyle": "bold",
+      "defaultEdgeType": "curve",
+      "defaultLabelColor": "#000",
+      "defaultLabelHoverColor": "#fff",
+      "defaultLabelSize": 14,
+      "activeFontStyle": "bold",
+      "fontStyle": "bold",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd"
+    },
+    "mouseProperties": {
+      "minRatio": 0.75,
+      "maxRatio": 20
+    }
+  }
+}
