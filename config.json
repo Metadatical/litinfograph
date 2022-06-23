@@ -10,7 +10,7 @@
   "text": {
     "title": "Literary Influence Network",
     "more": "The Network of Literary Authors queried authors' influenced/influenced by DBpedia properties using SPARQL. Using Gephi, color-coded modularity partitions represent 19 communities within 3677 authors. The network, curated solely using literary authors, also includes songwriters, philosophers and psychologists.",
-    "intro": "Andrea Hansen</br>Pratt Institute School of Information</br><a href="https://github.com/Metadatical/"><span class="a">Github</span></a>\n\n"
+    "intro": "Andrea Hansen</br>Pratt Institute School of Information\n\n"
  },
   "legend": {
     "edgeLabel": "8969",
