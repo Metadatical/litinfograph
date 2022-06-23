@@ -9,8 +9,8 @@
   },
   "text": {
     "title": "Literary Influence Network",
-    "more": "Literature is intrinsically influx, taking on new values throughout time. While influential connections are a key factor in defining its characteristics, the influence network can supplement research. The network, curated solely using literary authors, also includes songwriters, philosophers and psychologists. While the color-based modularity partitions represent 19 communities of 3677 authors, the graph reinforces the prominence of influential ties within the literary world.",
-    "intro": "The Network of Literary Authors queried authors' influenced/influenced by' DBpedia properties. Color-coded modularity partitions represent 19 communities within 3677 authors.</br>Andrea Hansen</br>Pratt School of Information\n\n"
+    "more": "The Network of Literary Authors queried authors' influenced/influenced by DBpedia properties using SPARQL. Using Gephi, color-coded modularity partitions represent 19 communities within 3677 authors. The network, curated solely using literary authors, also includes songwriters, philosophers and psychologists.",
+    "intro": "Andrea Hansen</br>Pratt Institute School of Information\n\n"
  },
   "legend": {
     "edgeLabel": "8969",
