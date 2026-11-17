@@ -11,6 +11,14 @@
     "title": "Literary Influence Network",
     "more": "The Network of Literary Authors represents 19 communities within 3677 authors. The network, curated solely using literary authors, also includes songwriters, philosophers and psychologists.",
     "intro": "Andrea Hansen MSLIS</br>Pratt Institute School of Information</br>Literary Influence Network 2014.\n\n"
+  "license": 
+    "name": "Attribution-NonCommercial-ShareAlike 4.0 International",
+    "shortName": "CC BY-NC-SA 4.0",
+    "spdxId": "CC-BY-NC-SA-4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "legalCodeUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en"
+  
+}
 
  },
   "legend": {
